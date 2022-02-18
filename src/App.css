@@ -1,0 +1,65 @@
+.main {
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: rgb(0, 0, 0);
+  padding: 1px 10px 10px;
+  border: 5px solid black;
+  border-top: 0px;
+  color: white;
+  line-height: 25px;
+}
+.header {
+  padding: 5px;
+}
+.listItemDone {
+  padding: 8px;
+  background-color: #15ff00;
+  margin: 4px;
+  color: black;
+}
+.listItemUnDone {
+  padding: 8px;
+  background-color: #ff0084;
+  margin: 4px;
+  color: black;
+}
+.task {
+  padding: 5px;
+}
+.listHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.listChild {
+  width: 100%;
+}
+.inputBox {
+  padding: 5px;
+}
+.button {
+  border: none;
+  padding: 10px;
+  background-color: #ff6410;
+  margin: 12px 0px 6px;
+  width: 170px;
+  border-radius: 10px;
+  font-size: 0.8rem;
+}
+.textInput {
+  border: none;
+  background-color: #00a2ff;
+  padding: 10px;
+  width: 150px;
+}
+.checkbox {
+  border: 0px;
+  height: 18px;
+  width: 18px;
+  position: relative;
+  top: 2px;
+}
+.bin {
+  position: relative;
+  top: 3px;
+}

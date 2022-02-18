@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.416b32f9.css",
-    "main.js": "/static/js/main.f399842d.js",
-    "static/js/787.db31866c.chunk.js": "/static/js/787.db31866c.chunk.js",
-    "index.html": "/index.html",
-    "main.416b32f9.css.map": "/static/css/main.416b32f9.css.map",
-    "main.f399842d.js.map": "/static/js/main.f399842d.js.map",
-    "787.db31866c.chunk.js.map": "/static/js/787.db31866c.chunk.js.map"
+    "main.css": "/ramverk-ks-1-petter-karlsson/static/css/main.416b32f9.css",
+    "main.js": "/ramverk-ks-1-petter-karlsson/static/js/main.fa3e1333.js",
+    "static/js/787.db31866c.chunk.js": "/ramverk-ks-1-petter-karlsson/static/js/787.db31866c.chunk.js",
+    "index.html": "/ramverk-ks-1-petter-karlsson/index.html",
+    "main.416b32f9.css.map": "/ramverk-ks-1-petter-karlsson/static/css/main.416b32f9.css.map",
+    "main.fa3e1333.js.map": "/ramverk-ks-1-petter-karlsson/static/js/main.fa3e1333.js.map",
+    "787.db31866c.chunk.js.map": "/ramverk-ks-1-petter-karlsson/static/js/787.db31866c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.416b32f9.css",
-    "static/js/main.f399842d.js"
+    "static/js/main.fa3e1333.js"
   ]
 }

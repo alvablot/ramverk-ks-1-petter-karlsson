@@ -8,7 +8,7 @@ function ListItem(props) {
   const { index, text, done, makeDone, remove } = props;
 
   function mapList() {
-    if (props.done) {
+    if (done) {
       taskStyle = "listItemDone";
       status = "Klar!";
     } else {
